@@ -1,0 +1,16 @@
+Variable,Category,Value
+Gender,Male,60 (50.0%)
+Gender,Female,60 (50.0%)
+Age,Range,18–30
+Age,Mean (M),24.67
+Age,Standard Deviation (SD),2.02
+Education Level,Master students,82 (68.3%)
+Education Level,Doctoral students,38 (31.7%)
+Academic Background,Engineering / Computer Science / Information-related fields,46 (38.3%)
+Academic Background,Management / Information Management / Business Administration,34 (28.3%)
+Academic Background,Design / Human Factors / Industrial Design,26 (21.7%)
+Academic Background,"Other social sciences (e.g., psychology, education)",14 (11.7%)
+Psychological Health,Self-reported no psychological or neurological disorder history,120 (100%)
+AI-related Formal Training,No formal training in AI ethics or algorithmic decision-making,120 (100%)
+AI Usage Experience,Regular use of generative AI for non-professional purposes,103 (85.8%)
+AI Usage Experience,Rare or no use,17 (14.2%)
