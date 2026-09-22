@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these data or materials, please cite the associated article and this repository."
+title: "TBR: Data and materials for The Burden of Responsibility in Human–AI Interaction"
+type: dataset
+authors:
+  - family-names: Wang
+    given-names: Zhenyu
+    affiliation: Tongji University
+  - family-names: Wang
+    given-names: Jianmin
+    affiliation: Tongji University
+repository-code: "https://github.com/wzy7421/TBR"
+date-released: 2026-09-22
+version: "1.0.0"
