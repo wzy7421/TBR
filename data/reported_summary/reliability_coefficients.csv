@@ -1,0 +1,9 @@
+Block_dimension,target_1,target_2,target_3,target_4
+Agent–Utilitarian – Cognitive Responsibility,Male AI=0.84,Female AI=0.79,Male Human=0.76,Female Human=0.81
+Agent–Utilitarian – Affective Responsibility,Male AI=0.95,Female AI=0.91,Male Human=0.90,Female Human=0.94
+Agent–Ethical – Cognitive Responsibility,Male AI=0.87,Female AI=0.83,Male Human=0.79,Female Human=0.84
+Agent–Ethical – Affective Responsibility,Male AI=0.93,Female AI=0.89,Male Human=0.88,Female Human=0.92
+Team–Utilitarian – Cognitive Responsibility,H-H=0.78,H-AI=0.85,AI-AI=0.82,
+Team–Utilitarian – Affective Responsibility,H-H=0.88,H-AI=0.94,AI-AI=0.97,
+Team–Ethical – Cognitive Responsibility,H-H=0.84,H-AI=0.87,AI-AI=0.79,
+Team–Ethical – Affective Responsibility,H-H=0.93,H-AI=0.91,AI-AI=0.90,
