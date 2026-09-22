@@ -1,0 +1,29 @@
+Block,Effect,df,F,p,eta_p2
+Agent–Utilitarian,Execution target,"1, 119",1.62,.206,.013
+Agent–Utilitarian,Outcome valence,"1, 119",11.48,.001,.088
+Agent–Utilitarian,Outcome magnitude,"1, 119",15.92,< .001,.118
+Agent–Utilitarian,Target × Valence,"1, 119",3.76,.055,.031
+Agent–Utilitarian,Target × Magnitude,"1, 119",1.21,.274,.010
+Agent–Utilitarian,Valence × Magnitude,"1, 119",4.18,.043,.034
+Agent–Utilitarian,Target × Valence × Magnitude,"1, 119",0.84,.361,.007
+Agent–Ethical,Execution target,"1, 119",2.04,.156,.017
+Agent–Ethical,Outcome valence,"1, 119",18.73,< .001,.136
+Agent–Ethical,Outcome magnitude,"1, 119",13.26,< .001,.100
+Agent–Ethical,Target × Valence,"1, 119",4.32,.040,.035
+Agent–Ethical,Target × Magnitude,"1, 119",0.97,.327,.008
+Agent–Ethical,Valence × Magnitude,"1, 119",5.11,.026,.041
+Agent–Ethical,Target × Valence × Magnitude,"1, 119",1.08,.301,.009
+Team–Utilitarian,Collaboration mode,"2, 238",2.41,.092,.020
+Team–Utilitarian,Outcome valence,"1, 119",12.09,.001,.092
+Team–Utilitarian,Outcome magnitude,"1, 119",14.62,< .001,.109
+Team–Utilitarian,Mode × Valence,"2, 238",2.19,.114,.018
+Team–Utilitarian,Mode × Magnitude,"2, 238",1.34,.264,.011
+Team–Utilitarian,Valence × Magnitude,"1, 119",4.44,.037,.036
+Team–Utilitarian,Mode × Valence × Magnitude,"2, 238",0.91,.404,.008
+Team–Ethical,Collaboration mode,"2, 238",2.78,.064,.023
+Team–Ethical,Outcome valence,"1, 119",16.54,< .001,.122
+Team–Ethical,Outcome magnitude,"1, 119",12.88,.001,.098
+Team–Ethical,Mode × Valence,"2, 238",2.56,.079,.021
+Team–Ethical,Mode × Magnitude,"2, 238",1.11,.331,.009
+Team–Ethical,Valence × Magnitude,"1, 119",4.83,.030,.039
+Team–Ethical,Mode × Valence × Magnitude,"2, 238",1.02,.362,.008
