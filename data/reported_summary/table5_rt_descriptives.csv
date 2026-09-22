@@ -1,0 +1,11 @@
+Block,Execution target,Positive frame M (SD) ms,Negative frame M (SD) ms,Low magnitude M (SD) ms,High magnitude M (SD) ms
+Agent–Utilitarian,Human,"1,880 (420)","2,110 (470)","1,935 (435)","2,055 (465)"
+Agent–Utilitarian,AI,"1,915 (430)","2,045 (455)","1,930 (440)","2,030 (450)"
+Agent–Ethical,Human,"1,940 (440)","2,240 (505)","2,025 (460)","2,155 (500)"
+Agent–Ethical,AI,"1,985 (450)","2,145 (485)","2,010 (455)","2,120 (480)"
+Team–Utilitarian,H–H,"1,920 (435)","2,175 (495)","1,985 (450)","2,110 (485)"
+Team–Utilitarian,H–AI,"1,950 (440)","2,110 (480)","1,988 (448)","2,072 (472)"
+Team–Utilitarian,AI–AI,"1,980 (445)","2,085 (470)","1,992 (450)","2,073 (465)"
+Team–Ethical,H–H,"1,995 (455)","2,290 (530)","2,085 (475)","2,200 (520)"
+Team–Ethical,H–AI,"2,025 (460)","2,205 (505)","2,072 (470)","2,158 (495)"
+Team–Ethical,AI–AI,"2,050 (465)","2,160 (490)","2,075 (468)","2,135 (485)"
