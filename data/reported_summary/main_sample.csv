@@ -1,0 +1,22 @@
+Variable,Category,Value
+Gender,Male,60 (50.0%)
+Gender,Female,60 (50.0%)
+Age,Range,25–35
+Age,Mean (M),29.32
+Age,Standard Deviation (SD),3.14
+Years of Work Experience,≤ 3 years,34 (28.3%)
+Years of Work Experience,4–6 years,52 (43.3%)
+Years of Work Experience,≥ 7 years,34 (28.3%)
+Industry Background,AI / Information Technology,48 (40.0%)
+Industry Background,"Service industries (finance, consulting, operations)",42 (35.0%)
+Industry Background,Manufacturing and engineering-related industries,30 (25.0%)
+Job Role,Technical / System development,39 (32.5%)
+Job Role,Management / Project coordination,47 (39.2%)
+Job Role,Business decision-making / Operations support,34 (28.3%)
+Frequency of AI System Use,Frequent use in daily work,88 (73.3%)
+Frequency of AI System Use,Regular use (≥ once per week),32 (26.7%)
+Experience with AI-Assisted Decision-Making,Involved in AI-assisted decision processes,91 (75.8%)
+Experience with AI-Assisted Decision-Making,Execution or information recipient only,29 (24.2%)
+Organizational Decision Experience,Participated in risk- or responsibility-related decisions,84 (70.0%)
+Organizational Decision Experience,No explicit decision experience,36 (30.0%)
+Health and Cognitive Status,Self-reported no cognitive or perceptual impairment,120 (100%)
