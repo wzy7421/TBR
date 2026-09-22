@@ -1,0 +1,15 @@
+Context & Level,Source of Variation,df,F,p-value,eta_p2
+Utilitarian (Agent),Execution Agent (Human vs. AI),"1, 119",9.34,.003,.073
+Utilitarian (Agent),Outcome Valence (Gain vs. Loss),"1, 119",216.82,< .001,.650
+Utilitarian (Agent),Outcome Magnitude (High vs. Low),"1, 119",302.46,< .001,.720
+Utilitarian (Agent),Agent × Outcome Valence,"1, 119",18.57,< .001,.140
+Utilitarian (Agent),Valence × Magnitude,"1, 119",21.08,< .001,.150
+Ethical (Agent),Execution Agent (Human vs. AI),"1, 119",18.47,< .001,.134
+Ethical (Agent),Outcome Valence (Reward vs. Blame),"1, 119",345.62,< .001,.743
+Ethical (Agent),Outcome Magnitude (High vs. Low),"1, 119",112.38,< .001,.485
+Ethical (Agent),Agent × Outcome Valence,"1, 119",21.02,< .001,.150
+Ethical (Agent),Valence × Magnitude,"1, 119",29.64,< .001,.199
+Utilitarian (Team),Collab. Mode × Outcome Valence,"2, 238",5.16,.007,-
+Utilitarian (Team),Outcome Valence Main Effect,-,-,< .001,.916
+Ethical (Team),Collab. Mode × Outcome Valence,"2, 238",14.62,< .001,-
+Ethical (Team),Outcome Valence Main Effect,-,-,< .001,.826
