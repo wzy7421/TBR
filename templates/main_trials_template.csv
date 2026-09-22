@@ -1,0 +1,1 @@
+participant_id,block_order_sequence,block_position,trial_index_global,trial_index_block,block,decision_context,target_level,target_configuration,outcome_valence,outcome_valence_binary,outcome_magnitude,repetition,acceptance,rt_ms
